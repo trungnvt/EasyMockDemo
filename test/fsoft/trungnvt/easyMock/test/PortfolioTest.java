@@ -12,7 +12,7 @@ import org.easymock.EasyMock;
 
 import fsoft.trungnvt.easyMock.Portfolio;
 import fsoft.trungnvt.easyMock.Stock;
-import fsoft.trungnvt.easyMock.StockService;
+import fsoft.trungnvt.easyMock.service.StockService;
 
 /**
  * @author TrungNVT

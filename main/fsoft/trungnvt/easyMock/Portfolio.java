@@ -2,6 +2,8 @@ package fsoft.trungnvt.easyMock;
 
 import java.util.List;
 
+import fsoft.trungnvt.easyMock.service.StockService;
+
 public class Portfolio {
 	private StockService stockService;
 	private List<Stock> stocks;
